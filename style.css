@@ -1,3 +1,13 @@
 h1 {
 color: blue;
 }
+
+#fett{
+  font-weight: bold;
+  /*--Text (der in html so gekennzeichnet ist id="fett") ist fett*/
+}
+
+.red{
+  color: red;
+  /*diese Klasse hat nun roten Text*/
+}
